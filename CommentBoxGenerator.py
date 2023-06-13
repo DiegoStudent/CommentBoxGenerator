@@ -15,7 +15,6 @@ print("#"," "*(((len(purpose)-len(dayte))-3)//2), dayte," "*(((len(purpose)-len(
 print("#", " "*(len(purpose)-4), "#")
 print("#"," "*(((len(purpose)-len(version))-3)//2), version," "*(((len(purpose)-len(version))//2)-4), "#")
 print("#"*len(purpose))
-print("\n")
-print("Above is the output; copy and paste it into your code")
+print("\n\nAbove is the output; copy and paste it into your code")
 input("Press any key to exit...")
 #In case someone is using the python console, so that it doesnt close immediately after execution
